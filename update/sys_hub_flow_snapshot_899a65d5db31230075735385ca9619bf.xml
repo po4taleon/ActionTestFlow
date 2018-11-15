@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_flow_snapshot">
+    <sys_hub_flow_snapshot action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Flow to test custom action.</description>
+        <label_cache>[]</label_cache>
+        <name>Action Test Flow</name>
+        <parent_flow display_value="Action Test Flow">b8a66151db31230075735385ca9619c5</parent_flow>
+        <remote_trigger_id/>
+        <status>published</status>
+        <sys_class_name>sys_hub_flow_snapshot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-14 23:24:06</sys_created_on>
+        <sys_id>899a65d5db31230075735385ca9619bf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Action Test Flow</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_277323_needit_sp">6c646d11db31230075735385ca961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">6c646d11db31230075735385ca961946</sys_scope>
+        <sys_update_name>sys_hub_flow_snapshot_899a65d5db31230075735385ca9619bf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-14 23:24:06</sys_updated_on>
+    </sys_hub_flow_snapshot>
+</record_update>

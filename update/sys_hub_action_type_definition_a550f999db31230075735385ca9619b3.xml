@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <description>Input a number and return the date that many days ago.</description>
+        <label_cache>[{"name":"{{action.ah_days_ago}}","label":"action➛ah_days_ago","type":"action","ref":""}]</label_cache>
+        <latest_snapshot display_value="Get Days Ago Date">eb82b5d9db31230075735385ca96193c</latest_snapshot>
+        <name>Get Days Ago Date</name>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-14 23:49:15</sys_created_on>
+        <sys_id>a550f999db31230075735385ca9619b3</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Get Days Ago Date</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_277323_needit_sp">6c646d11db31230075735385ca961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">6c646d11db31230075735385ca961946</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_a550f999db31230075735385ca9619b3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-14 23:58:57</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=a550f999db31230075735385ca9619b3"/>
+    <sys_variable_value action="delete_multiple" query="document_key=a550f999db31230075735385ca9619b3"/>
+    <sys_variable_value action="INSERT_OR_UPDATE">
+        <document>sys_hub_action_type_definition</document>
+        <document_key>a550f999db31230075735385ca9619b3</document_key>
+        <order>0</order>
+        <sys_class_name>sys_variable_value</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-14 23:57:07</sys_created_on>
+        <sys_id>3022311ddb31230075735385ca961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-14 23:57:07</sys_updated_on>
+        <value>new_date</value>
+        <variable display_value="">bc22311ddb31230075735385ca961945</variable>
+    </sys_variable_value>
+</record_update>

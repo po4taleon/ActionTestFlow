@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <description>Get the value of an application property.</description>
+        <label_cache>[{"name":"{{action.ah_property}}","label":"action➛Property","type":"action","ref":""},{"name":"{{step[8c096451-1e45-4288-ba9d-fe14a6db54b7].property_value}}","label":"step➛Look up Application Property.➛property_value","type":"step","ref":""}]</label_cache>
+        <latest_snapshot display_value="Get Property">06dfe999db31230075735385ca961976</latest_snapshot>
+        <name>Get Property</name>
+        <outputs/>
+        <outputs/>
+        <state>published</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-14 22:59:43</sys_created_on>
+        <sys_id>8005e115db31230075735385ca96198f</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Get Property</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_277323_needit_sp">6c646d11db31230075735385ca961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">6c646d11db31230075735385ca961946</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_8005e115db31230075735385ca96198f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-14 23:47:06</sys_updated_on>
+        <system_level>false</system_level>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=8005e115db31230075735385ca96198f"/>
+    <sys_variable_value action="delete_multiple" query="document_key=8005e115db31230075735385ca96198f"/>
+    <sys_element_mapping action="delete_multiple" query="id=8005e115db31230075735385ca96198f"/>
+    <sys_element_mapping action="INSERT_OR_UPDATE">
+        <field>property_value</field>
+        <id>8005e115db31230075735385ca96198f</id>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-14 23:43:11</sys_created_on>
+        <sys_id>b4fee199db31230075735385ca961925</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-14 23:43:11</sys_updated_on>
+        <table>var__m_sys_hub_action_output_8005e115db31230075735385ca96198f</table>
+        <value>{{step[8c096451-1e45-4288-ba9d-fe14a6db54b7].property_value}}</value>
+    </sys_element_mapping>
+</record_update>

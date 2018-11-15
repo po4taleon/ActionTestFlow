@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="property_name" label="property_name" language="en" table="var__m_sys_hub_step_ext_input_d9462555db31230075735385ca9619c8">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>property_name</element>
+            <help/>
+            <hint/>
+            <label>property_name</label>
+            <language>en</language>
+            <name>var__m_sys_hub_step_ext_input_d9462555db31230075735385ca9619c8</name>
+            <plural>property_name</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-14 23:16:58</sys_created_on>
+            <sys_id>38f82d95db31230075735385ca9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>property_name</sys_name>
+            <sys_package display_value="NeedIt Spoke" source="x_277323_needit_sp">6c646d11db31230075735385ca961946</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt Spoke">6c646d11db31230075735385ca961946</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_step_ext_input_d9462555db31230075735385ca9619c8_property_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-14 23:16:58</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
